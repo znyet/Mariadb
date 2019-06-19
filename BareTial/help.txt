@@ -1,0 +1,6 @@
+https://www.baremetalsoft.com/baretail/index.php
+
+
+SET global general_log = on; 
+-- SET global general_log = off; 
+show global variables like '%general%';
